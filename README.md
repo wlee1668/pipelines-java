@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wlee0532/MyAzurePipelineTest/_apis/build/status/wlee1668.pipelines-java?branchName=master)](https://dev.azure.com/wlee0532/MyAzurePipelineTest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
